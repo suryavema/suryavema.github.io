@@ -12483,7 +12483,7 @@ arn(a){var s
 A.aY(a)
 s=A.da(a,B.vo)
 s=s==null?null:s.gdt()
-return A.ak5(B.zc,B.zi,B.zf,(s==null?B.aR:s).a)},
+return A.ak5(B.zc,B.zj,B.zf,(s==null?B.aR:s).a)},
 FM:function FM(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.c=a
 _.d=b
@@ -63834,7 +63834,7 @@ n=A.b4(a,r,n).w
 s=p?A.a5(B.c.aA(127.5),255,255,255):A.a5(B.c.aA(127.5),0,0,0)
 n=A.nG(!1,!0,A.hR("Linkedin Profile",A.dy(r,r,s,r,r,r,r,r,r,r,r,n.a.a/60,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r,!0,r,r,r,r,r,r,r,r,r,new A.a2d(),r,r,r,r)
 s=t.E
-return A.e_(r,A.zT(A.PS(A.a([B.uO,m,B.ht,l,B.ed,n,B.ed,B.uO,A.a9o(A.a([B.zG,B.H_,A.hR("suryavamsi2318@gmail.com",A.dy(r,r,p?A.a5(B.c.aA(127.5),255,255,255):A.a5(B.c.aA(127.5),0,0,0),r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],s),B.dH)],s),B.cb,B.fP),r,r),r,new A.dj(o,r,r,q,r,r,B.ao),17976931348623157e292,r,B.zg,r)}}
+return A.e_(r,A.zT(A.PS(A.a([B.uO,m,B.ht,l,B.ed,n,B.ed,B.uO,A.a9o(A.a([B.zG,B.H_,A.hR("suryavamsi2318@gmail.com",A.dy(r,r,p?A.a5(B.c.aA(127.5),255,255,255):A.a5(B.c.aA(127.5),0,0,0),r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r))],s),B.dH)],s),B.cb,B.fP),r,r),r,new A.dj(o,r,r,q,r,r,B.ao),17976931348623157e292,r,B.zh,r)}}
 A.a2c.prototype={
 $0(){return A.yX(A.ee("https://github.com/suryavema",0,null))},
 $S:0}
@@ -63860,7 +63860,7 @@ $S:0}
 A.a4C.prototype={
 $2(a,b){var s=null,r=this.a,q=t.w,p=A.b4(a,s,q).w
 q=A.b4(a,s,q).w
-return A.nG(!1,!0,A.e_(s,s,s,new A.dj(s,A.abS(B.w_,new A.kV(r.e[b]),s),s,A.kY(20),s,s,B.ao),q.a.b/4.5,B.zh,B.jx,1.5*p.a.b/4.5),s,!0,s,s,s,s,s,s,s,s,s,new A.a4A(r,b),s,s,s,s)},
+return A.nG(!1,!0,A.e_(s,s,s,new A.dj(s,A.abS(B.w_,new A.kV(r.e[b]),s),s,A.kY(20),s,s,B.ao),q.a.b/4.5,B.zi,B.jx,1.5*p.a.b/4.5),s,!0,s,s,s,s,s,s,s,s,s,new A.a4A(r,b),s,s,s,s)},
 $S:399}
 A.a4A.prototype={
 $0(){return A.yX(this.a.d[this.b])},
@@ -63885,7 +63885,7 @@ am(){return new A.M2(B.k)}}
 A.M2.prototype={
 R(a){var s=null,r=A.u4(a,!0,t.eC),q=r.a,p=t.w,o=A.b4(a,s,p).w,n=A.b4(a,s,p).w
 p=A.b4(a,s,p).w
-return A.v0(A.a9o(A.a([new A.CY(r,s),new A.Ax(q,s),new A.Am(A.a(["assets/images/cert/SIH2022.jpg","assets/images/cert/fccAPI.png","assets/images/cert/udemyNode.png"],t.s),A.a([A.ee("https://sih.gov.in/sih-2022-senior-final-result",0,s),A.ee("https://www.freecodecamp.org/certification/dlsathvik04/back-end-development-and-apis",0,s),A.ee("https://www.udemy.com/certificate/UC-58bb2611-b0ce-492e-b7cc-eea7bd39ff3c/",0,s)],t.uB),new A.Pd(new A.bo(new A.ah($.ad,t.wC),t.Fe)),s)],t.E),B.dH),p.a.b,o.a.a-n.a.b*0.5636100513090383)}}
+return A.v0(A.a9o(A.a([new A.CY(r,s),new A.Ax(q,s),new A.Am(A.a(["assets/images/cert/SIH2022.jpg","assets/images/cert/fccAPI.png","assets/images/cert/udemyNode.png"],t.s),A.a([A.ee("https://github.com/suryavema/Wateraware",0,s),A.ee("http://ude.my/UC-b743f764-6be6-4a99-87c0-b413202e5016",0,s),A.ee("https://coursera.org/verify/WMBV9DWBM56G",0,s)],t.uB),new A.Pd(new A.bo(new A.ah($.ad,t.wC),t.Fe)),s)],t.E),B.dH),p.a.b,o.a.a-n.a.b*0.5636100513090383)}}
 A.CY.prototype={
 R(a){var s=null
 return A.e_(s,A.PS(A.a([B.N6,B.N8,B.N7,A.e_(s,new A.FG(this.c.a,new A.VF(this),B.h,B.j,new A.cy(B.iZ,t.Il),s),s,s,s,s,B.jx,s)],t.E),B.je,B.Df),s,B.vZ,s,s,s,50)}}
@@ -63910,7 +63910,7 @@ r=s
 s=q}s=A.abF(o,o,new A.cy(s,t.Il),o,o,o,o,o,o,o,o,o,o,o,o,new A.cy(new A.ch(A.kY(20),B.m),t.fj),o,o,o,o,o,o)
 if(l)r=r===m?B.j:B.h
 else r=r===m?B.h:B.j
-return A.acs(A.e_(o,new A.FM(new A.a4h(p,n),o,o,o,s,B.M,o,!1,o,!0,new A.EF(-1,A.hR(p.c,A.dy(o,o,r,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),o),o),o,o,o,o,B.zj,o),1)}}
+return A.acs(A.e_(o,new A.FM(new A.a4h(p,n),o,o,o,s,B.M,o,!1,o,!0,new A.EF(-1,A.hR(p.c,A.dy(o,o,r,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),o),o),o,o,o,o,B.zg,o),1)}}
 A.a4h.prototype={
 $0(){var s=this.b
 s.a=this.a.d
@@ -66735,11 +66735,11 @@ B.jy=new A.b9(15,15,15,15)
 B.zd=new A.b9(16,0,16,0)
 B.ze=new A.b9(30,0,10,0)
 B.zf=new A.b9(4,0,4,0)
+B.zg=new A.b9(4,60,4,60)
 B.jz=new A.b9(50,0,20,0)
-B.zg=new A.b9(50,0,20,10)
-B.zh=new A.b9(5,5,5,5)
-B.zi=new A.b9(8,0,8,0)
-B.zj=new A.b9(8,60,8,60)
+B.zh=new A.b9(50,0,20,10)
+B.zi=new A.b9(5,5,5,5)
+B.zj=new A.b9(8,0,8,0)
 B.zk=new A.r6(null)
 B.zl=new A.r7(0,"noOpinion")
 B.zm=new A.r7(1,"enabled")
